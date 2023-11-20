@@ -4,5 +4,5 @@
 
 ## Info
 
-随便写写
+今天部署了新的域名 jerryhuang.eu.org
 
